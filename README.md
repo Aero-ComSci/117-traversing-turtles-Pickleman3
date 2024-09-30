@@ -31,6 +31,8 @@ Step 18
 
 ## Questions about the Activity as you work. 
 ```
+What does __init__ and __str__ do
+Are there built in shapes for turtle
 
 ```
 #### Description Of The App 
