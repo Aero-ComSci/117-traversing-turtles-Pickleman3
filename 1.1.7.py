@@ -3,8 +3,8 @@ trtl.speed(0)
 trtl.pensize(20)
 my_turtles = []
 #Make a data base
-turtle_shapes = ["arrow", "turtle", "circle", "square", "triangle", "classic"]
-turtle_colors = ["red", "blue", "green", "orange", "purple", "gold"]
+turtle_shapes = ["turtle", "arrow", "square", "circle", "classic", "triangle", ]
+turtle_colors = ["magenta","orange","red","blue", "yellow","green"]
 
 #Make aclass
 class pain:
